@@ -7,10 +7,10 @@ const connection = mysql.createConnection({
     port: 3000,
 
     // Your username
-    user: "root",
+    user: "",
 
     // Your password
-    password: "root",
+    password: "myRootPassword",
     database: "bamazon"
 });
 

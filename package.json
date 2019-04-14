@@ -1,23 +1,21 @@
 {
   "name": "bamazon",
-  "version": "0.0.1",
-  "description": "nodejs and mysql app that mimic an online storefront like amazon",
+  "version": "1.0.0",
+  "description": "",
   "main": "bamazonCustomer.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jMac029/bamazon.git"
+    "url": "git+https://github.com/chasekelly/bamazon.git"
   },
-  "author": "jMac",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jMac029/bamazon/issues"
+    "url": "https://github.com/chasekelly/bamazon/issues"
   },
-  "homepage": "https://github.com/jMac029/bamazon#readme",
-  "dependencies": {
-    "inquirer": "^4.0.1",
-    "mysql": "^2.15.0"
-  }
+  "homepage": "https://github.com/chasekelly/bamazon#readme"
 }
