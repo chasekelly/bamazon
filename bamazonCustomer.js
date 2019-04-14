@@ -1,16 +1,16 @@
-const mysql = require("mysql")
-const inquirer = require("inquirer")
+const mysql = require("mysql");
+const inquirer = require("inquirer");
 
 // create the connection information for the sql database
 const connection = mysql.createConnection({
     host: "localhost",
-    port: 3000,
+    port: 3306,
 
     // Your username
-    user: "",
+    user: "root",
 
     // Your password
-    password: "myRootPassword",
+    password: "Maxjc8395",
     database: "bamazon"
 });
 
